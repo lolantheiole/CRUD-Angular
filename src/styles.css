@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+/* styles/header.css */
+.header {
+    width: 100%;
+    padding: 2%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+  }
+  
+  /* styles/display-board.css */
+  .display-board {
+    width: 100%;
+    background-color: rgb(193, 236, 112);
+    padding: 5%;
+  }
+  
+  .number {
+    color: red;
+    font-size: 75px;
+    text-align: center;
+  }
+  
